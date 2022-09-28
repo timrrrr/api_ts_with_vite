@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap');
+
+body {
+    margin: 0px;
+    font-family: 'Source Code Pro', monospace;
+    background-image: url("/images/bg1.jpeg");
+}
+
+.content {
+    width: 1000px;
+    margin: auto;
+    background-color: white;
+    padding: 60px;
+    height: 1000px;
+    padding-top: 10px;
+}
+
+.half {
+    /* display: flex; */
+    float: left;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    height: 1000px;
+}
+
+
